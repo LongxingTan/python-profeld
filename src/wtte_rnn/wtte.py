@@ -1,5 +1,6 @@
 import tensorflow as tf
 
+
 class Time_WTTE(object):
     def __init__(self,params,mode):
         self.params=params
