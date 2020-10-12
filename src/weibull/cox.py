@@ -1,5 +1,6 @@
 import numpy as np
 
+
 class Cox(object):
     def __init__(self):
         pass
