@@ -21,9 +21,9 @@ PROJECT_PATH = SOURCE_PATH.joinpath("../..")  # noqa # project root
 
 # -- Project information -----------------------------------------------------
 
-project = 'python-ProFeld'
-copyright = '2022, Longxing Tan'
-author = 'Longxing Tan'
+project = "python-ProFeld"
+copyright = "2022, Longxing Tan"
+author = "Longxing Tan"
 
 
 # -- General configuration ---------------------------------------------------
@@ -31,11 +31,10 @@ author = 'Longxing Tan'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
-]
+extensions = []
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
+templates_path = ["_templates"]
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -48,9 +47,9 @@ exclude_patterns = []
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = "alabaster"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+html_static_path = ["_static"]

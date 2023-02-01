@@ -25,24 +25,25 @@
 
 ## Tutorial
 
-### Install
+### Installation
 
 ```shell
-$ pip install python-profeld
+$ pip install profeld
 ```
 
 ### Usage
 
-```
+```python
 import profeld
-
 
 
 ```
 
 ## Examples
 
+```python
 
+```
 
 ## Acknowledgements
 
